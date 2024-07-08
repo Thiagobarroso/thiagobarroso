@@ -1,7 +1,18 @@
-### Olá Mundo!!!👋
+Olá! Meu nome é Thiago Barroso 😄
+========================================================================================================================================
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/thiago-barroso-728278a9/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagobarroso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobarroso&layout=compact&langs_count=7&theme=dark"/>
+🌍   Desenvolvedor Front-end, localizado no Rio de Janeiro.
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="[https://www.linkedin.com/in/stefan-topalovic-dev/](https://www.linkedin.com/in/thiagobarrosodev/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
