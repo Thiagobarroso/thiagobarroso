@@ -1,7 +1,7 @@
 Olá! Meu nome é Thiago Barroso 😄
 ========================================================================================================================================
 
-🌍   Desenvolvedor Front-end, localizado no Rio de Janeiro.
+🌍   Desenvolvedor full stack, localizado no Rio de Janeiro.
 <br/>
 
 ### Skills
